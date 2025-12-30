@@ -26,10 +26,7 @@ class FilmSchoolApp {
         // Example: "https://youtu.be/VIDEO_ID?si=..."
         this.youtubeLinks = [
             "https://youtu.be/5gVI329nO7c?si=4Zr3-XJpmP9bGTne",
-            "https://youtu.be/5gVI329nO7c?si=4Zr3-XJpmP9bGTne",
-            "https://youtu.be/5gVI329nO7c?si=4Zr3-XJpmP9bGTne",
-            "https://youtu.be/5gVI329nO7c?si=4Zr3-XJpmP9bGTne"
-            
+            "https://youtu.be/EFTdpyAefjE"
         ];
         
         // Direct link for all movies (BookMyShow)
